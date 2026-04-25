@@ -1,9 +1,16 @@
-# Rust/Cargo
-target/
+# Rust build output
+/target/
 
-# Ignore all binaries (no extension)
-*
-!*.rs
-!*.toml
-!*.md
-!*.gitignore
+# Lock file
+# Keep this if you're building an application
+# Remove/comment this if you're building a library
+Cargo.lock
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor stuff
+.vscode/
+.idea/
+*.swp
