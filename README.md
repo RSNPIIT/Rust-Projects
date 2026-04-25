@@ -1,65 +1,80 @@
 # 🦀 Rust-Projects
 
-My Rust learning journey and experiments.
+A collection of my Rust experiments, learning exercises, and small projects.
 
 ---
 
-## 📁 Structure
+## 📦 What’s in this repo
 
-This repository contains:
+This repository contains a mix of:
 
-- Single-file experiments using `rustc`
-- (Later) Cargo-based projects
+* Standalone Rust programs (`rustc`)
+* Cargo-based projects (recommended Rust workflow)
+* Experiments exploring core Rust concepts
 
-```
-Rust-Projects/
-├── hello_rust.rs
-└── README.md
-```
+The structure evolves over time as I learn and build more.
 
 ---
 
 ## 🚀 Running Code
 
-### Using `rustc` (current approach)
+### Using `rustc` (single-file programs)
 
 ```bash
-rustc hello_rust.rs
-./hello_rust
+rustc <file>.rs
+./<file>
 ```
 
-### (Future) Using Cargo
+---
+
+### Using Cargo (projects)
 
 ```bash
-cargo new project_name
-cd project_name
+cd <project_folder>
 cargo run
 ```
 
----
+Optional (clean output):
 
-## 🎯 Goals
-
-- [ ] Learn Rust fundamentals
-- [ ] Understand ownership and borrowing
-- [ ] Build CLI tools and small utilities
-- [ ] Transition to full Cargo-based projects
+```bash
+cargo run -q
+```
 
 ---
 
-## 🧠 Notes
+## 🎯 Focus Areas
 
-This repo starts with raw `rustc` experiments and will gradually evolve into structured Rust projects using Cargo.
+* Rust fundamentals
+* Ownership & borrowing
+* Project structuring with Cargo
+* Systems programming concepts
+* Building small tools and utilities
+
+---
+
+## 🧠 Philosophy
+
+This repo is intentionally unpolished and evolving.
+It reflects hands-on learning rather than curated projects.
+
+---
+
+## ⚙️ Environment
+
+* Rust (stable)
+* Cargo
+* Linux
 
 ---
 
 ## 👤 Author
 
-**RSNPIIT** (Ramrup Satpati) from IIT Madras
-Developed on Linux with 🩶
+Ramrup Satpati
+IIT Madras
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **GNU General Public License v3.0** — see [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) for details.
+GNU General Public License v3.0
+https://www.gnu.org/licenses/gpl-3.0.en.html
