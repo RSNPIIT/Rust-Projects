@@ -1,0 +1,7 @@
+[package]
+name = "binary_search_tree"
+version = "0.1.0"
+edition = "2021"
+description = "Recursive Binary Search Tree with node insertion, contains lookup, depth measurement, and in-order traversal."
+
+[dependencies]
