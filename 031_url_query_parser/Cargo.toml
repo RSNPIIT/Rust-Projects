@@ -1,0 +1,7 @@
+[package]
+name = "url_query_parser"
+version = "0.1.0"
+edition = "2021"
+description = "Parses and serializes URL query parameters with percent-encoding and decoding."
+
+[dependencies]
