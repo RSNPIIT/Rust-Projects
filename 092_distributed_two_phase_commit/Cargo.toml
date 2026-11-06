@@ -1,0 +1,7 @@
+[package]
+name = "distributed_two_phase_commit"
+version = "0.1.0"
+edition = "2021"
+description = "Two-Phase Commit transaction coordinator and cohort participants supporting Prepare, Vote, Commit, and Abort rollback."
+
+[dependencies]
