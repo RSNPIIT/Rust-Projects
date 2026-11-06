@@ -1,0 +1,7 @@
+[package]
+name = "state_machine_workflow"
+version = "0.1.0"
+edition = "2021"
+description = "Compile-time verified finite state machine preventing invalid transitions using Rust's zero-cost typestate pattern."
+
+[dependencies]
