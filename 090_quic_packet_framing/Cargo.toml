@@ -1,0 +1,7 @@
+[package]
+name = "quic_packet_framing"
+version = "0.1.0"
+edition = "2021"
+description = "RFC 9000 QUIC variable-length integer encoding (1, 2, 4, 8 bytes) and Initial packet header framing."
+
+[dependencies]
