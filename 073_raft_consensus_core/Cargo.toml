@@ -1,0 +1,7 @@
+[package]
+name = "raft_consensus_core"
+version = "0.1.0"
+edition = "2021"
+description = "Core Raft protocol state machine modeling Follower, Candidate, and Leader roles, terms, voting, and heartbeats."
+
+[dependencies]
