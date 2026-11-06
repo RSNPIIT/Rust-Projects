@@ -1,0 +1,7 @@
+[package]
+name = "vector_similarity_search"
+version = "0.1.0"
+edition = "2021"
+description = "High-dimensional embedding index calculating Cosine Similarity and Euclidean distance for k-Nearest Neighbors (KNN)."
+
+[dependencies]
