@@ -1,0 +1,7 @@
+[package]
+name = "luhn_algorithm"
+version = "0.1.0"
+edition = "2021"
+description = "Calculates and verifies checksum digits according to the Luhn (Mod 10) formula used in payment cards."
+
+[dependencies]
