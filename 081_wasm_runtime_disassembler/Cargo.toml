@@ -1,0 +1,7 @@
+[package]
+name = "wasm_runtime_disassembler"
+version = "0.1.0"
+edition = "2021"
+description = "WebAssembly (.wasm) binary reader validating magic number, version, section IDs, and decoding opcode streams."
+
+[dependencies]
