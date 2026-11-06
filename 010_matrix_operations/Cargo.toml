@@ -1,0 +1,7 @@
+[package]
+name = "matrix_operations"
+version = "0.1.0"
+edition = "2021"
+description = "Matrix data structure with addition, subtraction, scalar scaling, transposition, and dot-product multiplication."
+
+[dependencies]
