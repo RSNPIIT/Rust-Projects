@@ -1,0 +1,7 @@
+[package]
+name = "tar_archive_reader"
+version = "0.1.0"
+edition = "2021"
+description = "Parses standard 512-byte POSIX UStar tar headers extracting filename, size, octal permissions, and content."
+
+[dependencies]
