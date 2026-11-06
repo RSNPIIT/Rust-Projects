@@ -1,0 +1,7 @@
+[package]
+name = "memory_mapped_ring_buffer"
+version = "0.1.0"
+edition = "2021"
+description = "Simulated shared-memory circular queue for inter-process communication (IPC) with atomic synchronization."
+
+[dependencies]
