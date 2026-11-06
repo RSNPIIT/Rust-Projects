@@ -1,0 +1,7 @@
+[package]
+name = "dns_packet_parser"
+version = "0.1.0"
+edition = "2021"
+description = "Decodes binary RFC 1035 DNS wire packets including 12-byte header flags, query questions, and resource records."
+
+[dependencies]
