@@ -1,0 +1,7 @@
+[package]
+name = "caesar_cipher"
+version = "0.1.0"
+edition = "2021"
+description = "Symmetric shift cipher encryptor and decryptor supporting arbitrary positive and negative key shifts."
+
+[dependencies]
