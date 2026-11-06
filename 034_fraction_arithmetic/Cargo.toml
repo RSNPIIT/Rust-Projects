@@ -1,0 +1,7 @@
+[package]
+name = "fraction_arithmetic"
+version = "0.1.0"
+edition = "2021"
+description = "Exact rational number implementation supporting +, -, *, / operator overloading with greatest common divisor (GCD) reduction."
+
+[dependencies]
