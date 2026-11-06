@@ -1,0 +1,7 @@
+[package]
+name = "observer_pattern_bus"
+version = "0.1.0"
+edition = "2021"
+description = "Topic-based pub/sub notification message bus with subscribe tokens and unsubscribe unregistration."
+
+[dependencies]
