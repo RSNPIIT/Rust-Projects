@@ -1,0 +1,7 @@
+[package]
+name = "graph_neural_net_conv"
+version = "0.1.0"
+edition = "2021"
+description = "Graph Convolutional Network layer aggregating neighbor node features via normalized adjacency matrix multiplication."
+
+[dependencies]
