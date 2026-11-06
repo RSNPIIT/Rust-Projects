@@ -1,0 +1,7 @@
+[package]
+name = "command_line_arg_parser"
+version = "0.1.0"
+edition = "2021"
+description = "Zero-dependency CLI argument parser supporting boolean flags (-v), key-value options (--port=8080), and positional args."
+
+[dependencies]
