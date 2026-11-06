@@ -1,0 +1,7 @@
+[package]
+name = "sliding_window_metrics"
+version = "0.1.0"
+edition = "2021"
+description = "High-throughput sliding time window recording latencies and computing p50, p90, and p99 quantiles."
+
+[dependencies]
