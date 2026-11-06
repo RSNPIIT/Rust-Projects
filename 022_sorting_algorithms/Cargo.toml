@@ -1,0 +1,7 @@
+[package]
+name = "sorting_algorithms"
+version = "0.1.0"
+edition = "2021"
+description = "Collection of standard sorting algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort."
+
+[dependencies]
