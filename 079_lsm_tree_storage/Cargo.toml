@@ -1,0 +1,7 @@
+[package]
+name = "lsm_tree_storage"
+version = "0.1.0"
+edition = "2021"
+description = "LSM-Tree storage architecture with in-memory MemTable (BTreeMap), write-ahead log (WAL), and SSTable compaction."
+
+[dependencies]
