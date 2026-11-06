@@ -1,0 +1,7 @@
+[package]
+name = "cli_calculator"
+version = "0.1.0"
+edition = "2021"
+description = "Arithmetic calculator supporting +, -, *, /, parenthesis, and operator precedence using the Shunting-Yard algorithm."
+
+[dependencies]
