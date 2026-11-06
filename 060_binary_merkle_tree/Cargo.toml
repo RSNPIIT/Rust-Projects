@@ -1,0 +1,7 @@
+[package]
+name = "binary_merkle_tree"
+version = "0.1.0"
+edition = "2021"
+description = "Binary Merkle Tree generating root hashes and audit inclusion proofs for tamper-evident data verification."
+
+[dependencies]
