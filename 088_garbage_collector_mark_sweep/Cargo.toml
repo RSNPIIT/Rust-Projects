@@ -1,0 +1,7 @@
+[package]
+name = "garbage_collector_mark_sweep"
+version = "0.1.0"
+edition = "2021"
+description = "Simulation of managed heap memory with root references, mark phase graph traversal, and sweep deallocation."
+
+[dependencies]
