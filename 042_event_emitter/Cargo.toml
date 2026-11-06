@@ -1,0 +1,7 @@
+[package]
+name = "event_emitter"
+version = "0.1.0"
+edition = "2021"
+description = "Decoupled observer event bus registering callbacks and dispatching typed payload notifications."
+
+[dependencies]
