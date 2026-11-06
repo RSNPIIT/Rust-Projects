@@ -1,0 +1,7 @@
+[package]
+name = "cli_progress_bar"
+version = "0.1.0"
+edition = "2021"
+description = "Terminal progress bar with percentage counter, spinner glyphs, and carriage return `\r` line rewriting."
+
+[dependencies]
