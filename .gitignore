@@ -1,19 +1,32 @@
-# Rust build output
-/target/
+# Generated .gitignore for Rust-Projects
 
-# Lock file
-# Keep this if you're building an application
-# Remove/comment this if you're building a library
-Cargo.lock
+# Rust build target directories
+target/
+*/target/
+**/target/
 
-# OS junk
+# Cargo lock files (optional for libraries, kept or excluded)
+# Cargo.lock
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# OS metadata
 .DS_Store
 Thumbs.db
+Desktop.ini
 
-# Editor stuff
+# Editor & IDE configs
 .vscode/
 .idea/
 *.swp
+*.swo
+*~
+.fleet/
 
-# Ignore the target directory
-*/target/*
+# Backup and temp files
+*.rs.bk
+*.orig
+*.bak
+*.tmp
