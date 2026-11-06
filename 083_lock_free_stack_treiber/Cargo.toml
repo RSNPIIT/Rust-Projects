@@ -1,0 +1,7 @@
+[package]
+name = "lock_free_stack_treiber"
+version = "0.1.0"
+edition = "2021"
+description = "Lock-free concurrent Treiber stack utilizing atomic compare-and-swap (CAS) pointer updates."
+
+[dependencies]
