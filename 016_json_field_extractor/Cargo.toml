@@ -1,0 +1,7 @@
+[package]
+name = "json_field_extractor"
+version = "0.1.0"
+edition = "2021"
+description = "Zero-dependency lightweight JSON string lexer and key-value extractor for flat objects."
+
+[dependencies]
