@@ -1,0 +1,7 @@
+[package]
+name = "prime_sieve"
+version = "0.1.0"
+edition = "2021"
+description = "Sieve of Eratosthenes prime generator and prime factorization engine with performance metrics."
+
+[dependencies]
