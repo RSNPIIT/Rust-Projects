@@ -1,0 +1,7 @@
+[package]
+name = "env_var_loader"
+version = "0.1.0"
+edition = "2021"
+description = "Custom environment file reader parsing key-value pairs, ignoring comments, and stripping quotes."
+
+[dependencies]
