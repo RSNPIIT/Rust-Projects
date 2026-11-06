@@ -1,0 +1,7 @@
+[package]
+name = "consistent_hashing"
+version = "0.1.0"
+edition = "2021"
+description = "Consistent hash ring with virtual nodes distributing keys evenly across dynamically joining/leaving server nodes."
+
+[dependencies]
