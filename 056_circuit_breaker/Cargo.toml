@@ -1,0 +1,7 @@
+[package]
+name = "circuit_breaker"
+version = "0.1.0"
+edition = "2021"
+description = "Resilience pattern state machine (Closed, Open, HalfOpen) tripping on fault thresholds and recovering after timeout."
+
+[dependencies]
