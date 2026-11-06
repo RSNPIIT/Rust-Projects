@@ -1,0 +1,7 @@
+[package]
+name = "run_length_encoding"
+version = "0.1.0"
+edition = "2021"
+description = "Lossless data compression algorithm encoding repeated consecutive values into (count, char) tokens."
+
+[dependencies]
