@@ -1,0 +1,7 @@
+[package]
+name = "jit_assembler_toy"
+version = "0.1.0"
+edition = "2021"
+description = "Encodes x86_64 machine opcodes (mov, add, ret) dynamically into executable memory format representation."
+
+[dependencies]
