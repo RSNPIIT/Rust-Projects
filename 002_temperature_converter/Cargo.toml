@@ -1,0 +1,7 @@
+[package]
+name = "temperature_converter"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-scale temperature converter supporting Celsius, Fahrenheit, and Kelvin with custom enum traits and precision rounding."
+
+[dependencies]
