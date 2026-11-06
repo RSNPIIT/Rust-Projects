@@ -1,0 +1,7 @@
+[package]
+name = "tls_record_protocol_parser"
+version = "0.1.0"
+edition = "2021"
+description = "Wire decoder for TLS 1.3 records, handshake frames, ClientHello random bytes, session ID, and cipher suites."
+
+[dependencies]
