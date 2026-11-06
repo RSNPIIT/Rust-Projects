@@ -1,0 +1,7 @@
+[package]
+name = "binary_protocol_codec"
+version = "0.1.0"
+edition = "2021"
+description = "Type-Length-Value (TLV) framing codec with packet magic, checksum calculation, and binary payload decoding."
+
+[dependencies]
