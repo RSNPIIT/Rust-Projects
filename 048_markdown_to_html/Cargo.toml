@@ -1,0 +1,7 @@
+[package]
+name = "markdown_to_html"
+version = "0.1.0"
+edition = "2021"
+description = "Parses common Markdown syntax: headings (#), bold (**), italics (*), code blocks, and links into valid HTML."
+
+[dependencies]
