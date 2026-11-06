@@ -1,0 +1,7 @@
+[package]
+name = "stopwatch_timer"
+version = "0.1.0"
+edition = "2021"
+description = "High-precision timer supporting start, pause, resume, and split lap timing using std::time::Instant."
+
+[dependencies]
