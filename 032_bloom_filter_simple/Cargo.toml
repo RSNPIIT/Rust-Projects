@@ -1,0 +1,7 @@
+[package]
+name = "bloom_filter_simple"
+version = "0.1.0"
+edition = "2021"
+description = "Space-efficient probabilistic filter testing set membership with zero false negatives and tunable false positives."
+
+[dependencies]
