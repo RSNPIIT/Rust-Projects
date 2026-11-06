@@ -1,0 +1,7 @@
+[package]
+name = "file_metadata_inspector"
+version = "0.1.0"
+edition = "2021"
+description = "Inspects file size, permissions, file extension, and human-readable formatting of byte metrics."
+
+[dependencies]
