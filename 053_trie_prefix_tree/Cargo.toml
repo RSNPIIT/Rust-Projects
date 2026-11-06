@@ -1,0 +1,7 @@
+[package]
+name = "trie_prefix_tree"
+version = "0.1.0"
+edition = "2021"
+description = "Trie prefix tree supporting word insertion, exact word search, prefix lookup, and auto-complete word suggestions."
+
+[dependencies]
