@@ -1,0 +1,7 @@
+[package]
+name = "simd_vector_math"
+version = "0.1.0"
+edition = "2021"
+description = "High-throughput 4-lane SIMD vector operations (dot product, cross product, normalization) with fallback scalar paths."
+
+[dependencies]
