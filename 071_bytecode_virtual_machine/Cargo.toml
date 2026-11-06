@@ -1,0 +1,7 @@
+[package]
+name = "bytecode_virtual_machine"
+version = "0.1.0"
+edition = "2021"
+description = "Full stack VM with instruction pointer, call frames, arithmetic, comparison, jumps, and bytecode execution loop."
+
+[dependencies]
