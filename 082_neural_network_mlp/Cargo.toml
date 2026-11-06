@@ -1,0 +1,7 @@
+[package]
+name = "neural_network_mlp"
+version = "0.1.0"
+edition = "2021"
+description = "2-layer neural network with forward pass activation (Sigmoid) and error backpropagation training for XOR logic."
+
+[dependencies]
