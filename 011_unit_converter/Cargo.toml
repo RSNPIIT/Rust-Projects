@@ -1,0 +1,7 @@
+[package]
+name = "unit_converter"
+version = "0.1.0"
+edition = "2021"
+description = "Trait-based physical dimension unit converter for distance, mass, and volume conversions."
+
+[dependencies]
