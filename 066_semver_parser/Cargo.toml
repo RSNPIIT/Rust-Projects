@@ -1,0 +1,7 @@
+[package]
+name = "semver_parser"
+version = "0.1.0"
+edition = "2021"
+description = "Full SemVer 2.0.0 parser with Major, Minor, Patch, pre-release tags, build metadata, and ordering precedence."
+
+[dependencies]
