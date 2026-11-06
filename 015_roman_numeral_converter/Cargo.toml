@@ -1,0 +1,7 @@
+[package]
+name = "roman_numeral_converter"
+version = "0.1.0"
+edition = "2021"
+description = "Bi-directional converter between standard integers (1-3999) and Roman numerals with subtractive notation."
+
+[dependencies]
