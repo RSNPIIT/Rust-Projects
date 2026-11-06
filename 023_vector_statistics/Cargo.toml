@@ -1,0 +1,7 @@
+[package]
+name = "vector_statistics"
+version = "0.1.0"
+edition = "2021"
+description = "Calculates descriptive statistics: mean, median, mode, sample variance, standard deviation, and range."
+
+[dependencies]
