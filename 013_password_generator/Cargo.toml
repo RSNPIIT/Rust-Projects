@@ -1,0 +1,7 @@
+[package]
+name = "password_generator"
+version = "0.1.0"
+edition = "2021"
+description = "Generates secure randomized passwords with configurable entropy, character set inclusions, and strength ratings."
+
+[dependencies]
