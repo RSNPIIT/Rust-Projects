@@ -1,0 +1,7 @@
+[package]
+name = "stack_and_queue"
+version = "0.1.0"
+edition = "2021"
+description = "Generic implementations of LIFO Stack and FIFO Queue with peak, size, capacity, and iterator capabilities."
+
+[dependencies]
