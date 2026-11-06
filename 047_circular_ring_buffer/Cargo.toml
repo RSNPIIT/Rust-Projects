@@ -1,0 +1,7 @@
+[package]
+name = "circular_ring_buffer"
+version = "0.1.0"
+edition = "2021"
+description = "Fixed-capacity circular queue with wrapping read/write pointers and overwriting or non-overwriting modes."
+
+[dependencies]
