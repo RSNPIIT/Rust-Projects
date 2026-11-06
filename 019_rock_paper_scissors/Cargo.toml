@@ -1,0 +1,7 @@
+[package]
+name = "rock_paper_scissors"
+version = "0.1.0"
+edition = "2021"
+description = "Rock, Paper, Scissors, Lizard, Spock game logic with round scoring and strategy evaluation."
+
+[dependencies]
