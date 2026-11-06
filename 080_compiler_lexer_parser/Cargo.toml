@@ -1,0 +1,7 @@
+[package]
+name = "compiler_lexer_parser"
+version = "0.1.0"
+edition = "2021"
+description = "Lexical scanner and recursive descent parser transforming code strings into an Abstract Syntax Tree (AST)."
+
+[dependencies]
