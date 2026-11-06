@@ -1,0 +1,7 @@
+[package]
+name = "base64_encoder"
+version = "0.1.0"
+edition = "2021"
+description = "Standard RFC 4648 Base64 byte-stream encoder and decoder with padding calculation."
+
+[dependencies]
