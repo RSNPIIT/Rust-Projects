@@ -1,0 +1,7 @@
+[package]
+name = "b_tree_database_index"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-way balanced B+ Tree search index with node splitting, key search, and range traversal."
+
+[dependencies]
