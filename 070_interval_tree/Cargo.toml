@@ -1,0 +1,7 @@
+[package]
+name = "interval_tree"
+version = "0.1.0"
+edition = "2021"
+description = "Augmented Binary Search Tree storing numeric intervals with subtree max-endpoint caching for O(log n) overlap searches."
+
+[dependencies]
