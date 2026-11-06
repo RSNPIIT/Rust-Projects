@@ -1,0 +1,7 @@
+[package]
+name = "skiplist"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-level probabilistic skip list achieving expected O(log n) search, insertion, and ordered traversal."
+
+[dependencies]
