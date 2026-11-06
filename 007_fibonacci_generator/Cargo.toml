@@ -1,0 +1,7 @@
+[package]
+name = "fibonacci_generator"
+version = "0.1.0"
+edition = "2021"
+description = "Generates Fibonacci sequences via iterative, memoized, recursive, and custom infinite `Iterator` trait approaches."
+
+[dependencies]
