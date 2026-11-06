@@ -1,0 +1,7 @@
+[package]
+name = "bloom_filter_scalable"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-slice Bloom filter dynamically growing additional layers as capacity fills to maintain bounded error rate."
+
+[dependencies]
