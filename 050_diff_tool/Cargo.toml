@@ -1,0 +1,7 @@
+[package]
+name = "diff_tool"
+version = "0.1.0"
+edition = "2021"
+description = "Line-by-line file difference generator calculating added, deleted, and identical lines using Myers diff."
+
+[dependencies]
