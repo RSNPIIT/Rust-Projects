@@ -1,0 +1,7 @@
+[package]
+name = "cron_expression_parser"
+version = "0.1.0"
+edition = "2021"
+description = "5-field cron parser supporting wildcards, exact values, lists, and intervals for minute/hour/dom/month/dow scheduling."
+
+[dependencies]
