@@ -1,0 +1,7 @@
+[package]
+name = "distributed_id_snowflake"
+version = "0.1.0"
+edition = "2021"
+description = "64-bit distributed chronological ID generator incorporating epoch timestamp, worker ID, datacenter ID, and sequence counter."
+
+[dependencies]
