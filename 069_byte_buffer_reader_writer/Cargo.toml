@@ -1,0 +1,7 @@
+[package]
+name = "byte_buffer_reader_writer"
+version = "0.1.0"
+edition = "2021"
+description = "Binary buffer reader/writer supporting Little-Endian, Big-Endian primitives, and Google Protocol Buffer Varint encoding."
+
+[dependencies]
