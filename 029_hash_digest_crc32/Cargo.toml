@@ -1,0 +1,7 @@
+[package]
+name = "hash_digest_crc32"
+version = "0.1.0"
+edition = "2021"
+description = "Standard IEEE 802.3 CRC-32 checksum calculator with precomputed lookup table acceleration."
+
+[dependencies]
