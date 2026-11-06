@@ -1,0 +1,7 @@
+[package]
+name = "dijkstra_pathfinding"
+version = "0.1.0"
+edition = "2021"
+description = "Weighted graph shortest-path engine with BinaryHeap min-priority queue and path backtracking."
+
+[dependencies]
