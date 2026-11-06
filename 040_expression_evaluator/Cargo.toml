@@ -1,0 +1,7 @@
+[package]
+name = "expression_evaluator"
+version = "0.1.0"
+edition = "2021"
+description = "Recursive descent math expression parser producing an Abstract Syntax Tree (AST) with variable environments."
+
+[dependencies]
