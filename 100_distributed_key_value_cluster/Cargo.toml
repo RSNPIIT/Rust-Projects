@@ -1,0 +1,7 @@
+[package]
+name = "distributed_key_value_cluster"
+version = "0.1.0"
+edition = "2021"
+description = "Decentralized cluster communicating state via gossip anti-entropy protocol with heartbeat health detection."
+
+[dependencies]
