@@ -1,0 +1,7 @@
+[package]
+name = "lock_free_spsc_queue"
+version = "0.1.0"
+edition = "2021"
+description = "Single-Producer Single-Consumer lock-free ring buffer using atomic operations with acquire-release memory orderings."
+
+[dependencies]
