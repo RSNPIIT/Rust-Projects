@@ -1,0 +1,7 @@
+[package]
+name = "spatial_kdtree"
+version = "0.1.0"
+edition = "2021"
+description = "2D/3D K-d tree space-partitioning data structure for fast nearest-neighbor search and range queries."
+
+[dependencies]
