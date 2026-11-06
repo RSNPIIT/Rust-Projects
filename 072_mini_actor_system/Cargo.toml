@@ -1,0 +1,7 @@
+[package]
+name = "mini_actor_system"
+version = "0.1.0"
+edition = "2021"
+description = "Erlang/Akka-inspired Actor system with isolated actor mailboxes, asynchronous message passing, and state encapsulation."
+
+[dependencies]
