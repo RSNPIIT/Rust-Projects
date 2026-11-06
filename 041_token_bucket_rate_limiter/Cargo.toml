@@ -1,0 +1,7 @@
+[package]
+name = "token_bucket_rate_limiter"
+version = "0.1.0"
+edition = "2021"
+description = "High-throughput token bucket rate limiter providing burst capacity and constant replenishment."
+
+[dependencies]
