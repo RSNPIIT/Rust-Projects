@@ -1,0 +1,7 @@
+[package]
+name = "levenshtein_distance"
+version = "0.1.0"
+edition = "2021"
+description = "Calculates minimum single-character edit distance (insertions, deletions, substitutions) between strings."
+
+[dependencies]
